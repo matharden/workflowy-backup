@@ -1,0 +1,11 @@
+{
+  "name": "workflowy-backup",
+  "version": "1.0.0",
+  "description": "Automated Workflowy backup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mat Harden <matharden@gmail.com>",
+  "license": "MIT"
+}
