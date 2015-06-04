@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mat Harden <matharden@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^1.8.2"
+  }
 }
