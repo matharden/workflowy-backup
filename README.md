@@ -23,7 +23,7 @@ Create a `local.sh` with Workflowy credentials.
 export USERNAME="your_username"
 export PASSWORD="your_password"
 
-node backup.js
+node .
 ```
 
 Make this file executable:
