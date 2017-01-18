@@ -6,9 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matharden/workflowy-backup/blob/master/README.md"
+  },
   "author": "Mat Harden <matharden@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "nightmare": "^1.8.2"
+    "nightmare": "*"
   }
 }
