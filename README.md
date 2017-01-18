@@ -4,24 +4,23 @@ A hack to get Workflowy export through headless browser automation.
 
 ## Requirements
 
-- NodeJS & NPM
-- PhantomJS
+- Node & NPM
 
 ## Setup
 
-Install Nightmare:
+Install Nightmare, Electron and dependacies:
 
 ```bash
 make build
 ```
 
-Create a `local.sh` with Workflowy credentials.
+Create a `local.sh` file in the same directory with your Workflowy credentials.
 
 ```bash
 #!/bin/bash
 
-export USERNAME="your_username"
-export PASSWORD="your_password"
+export USERNAME="my_username"
+export PASSWORD="my_password"
 
 node .
 ```

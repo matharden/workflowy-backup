@@ -9,6 +9,6 @@
   "author": "Mat Harden <matharden@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "nightmare": "^1.8.2"
+    "nightmare": "^2.9.1"
   }
 }
